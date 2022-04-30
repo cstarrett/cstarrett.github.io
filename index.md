@@ -7,6 +7,6 @@
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {{ post.content }}
 <hr/>
-<p><small>{{ page.date | date: "%-d %B %Y" }}</small></p>
+<p><small>{{ post.date | date: "%-d %B %Y" }}</small></p>
 {% endfor %}
 </div>
