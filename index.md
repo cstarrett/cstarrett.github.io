@@ -3,10 +3,11 @@
 
 ## Latest Posts
 
-<ul>
+<div>
   {% for post in site.posts %}
-    <li>
+    <h2>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    </h2>
+    {{ post.content }}
   {% endfor %}
-</ul>
+</div>
