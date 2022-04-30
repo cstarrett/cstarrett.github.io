@@ -3,9 +3,6 @@ layout: post
 title:  "Curiosity is fear's Kryptonite"
 tags: fear curiosity courage
 ---
-
-# Curiosity and fear
-
 Fear can expand to contol our thoughts, our feelings, and our actions. It has the ability to block everything else out of our awareness.
 
 And resistance is futile. It will counter any argument we bring and laugh at any attempt to put a silver lining on it.
