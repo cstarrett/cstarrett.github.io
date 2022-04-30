@@ -8,7 +8,7 @@ layout: default
 
 {{content}}
 <hr/>
-<p><small>{{ page.date | date: "%-d %B %Y" }}</small></p>
+<small>{{ page.date | date: "%-d %B %Y" }}</small><br/>
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
