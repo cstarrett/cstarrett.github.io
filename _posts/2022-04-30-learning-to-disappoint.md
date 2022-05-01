@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Learning to disappoint”
+title: "Learning to disappoint"
 tags: growth fear change
 ---
 There are many things that keep us stuck in our old ways of living and working, even when we know we want to change.
