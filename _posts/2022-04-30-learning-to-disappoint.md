@@ -3,9 +3,9 @@ layout: post
 title: "Learning to disappoint"
 tags: growth fear change
 ---
-There are many things that keep us stuck in our old ways of living and working, even when we know we want to change.
+There are many forces that keep us stuck in our old ways of living and working, even when we know we want to change.
 
-One of these things is that the people around us expect us to keep acting the same way we always have. Some will be pleasantly surprised when we start to act more true to ourselves, but others won’t want us to change.
+One of these forces is the people around us who expect us to keep acting the same way we always have. Some will be pleasantly surprised when we start to act more true to ourselves, but others won’t want us to change.
 
 They may feel surprised, frustrated, confused, betrayed, and even angry if we break out of our old patterns, and start acting more true to who we really are.
 
