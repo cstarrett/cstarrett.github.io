@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Feeling more makes better decisions"
+tags: 
+---
+
+The idea that humans do what is in their best self interest is a myth. This idea was debunked at least as far back as the late 1960s by those who would form the field of [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics). 
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+And this section is called the "content" of the post
+
