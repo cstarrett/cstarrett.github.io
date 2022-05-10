@@ -10,6 +10,6 @@ So changing the culture of an organization requires more than working groups and
 
 And building new skills and capacity takes time, attention, and practice.
 
-All of this means that changing culture is not for the faint of heart. It's a commitment to a being a better organization which makes better things.
+All of this means that changing culture is not for the faint of heart. It's a commitment to becoming a better organization which makes better things.
 
 It's worth it, but only if you're in it for the long haul.
