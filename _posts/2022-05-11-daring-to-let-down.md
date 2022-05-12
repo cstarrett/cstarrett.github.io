@@ -14,4 +14,4 @@ But when you know that your letting go is going to let people down, it can feel 
 
 The alternative is to deny ourselves and refuse new possibilities. This path leads to the same end as letting go of the project, the business, or the relationship, but it will take much longer and be much more painful in the long run.
 
-So the question is: do you have the courage to endure the discomfort of letting people down now with gratitude for the past and excitement for as possible future, or will you hang on through a long, slow decline into resentment and apathy?
+So the question is: do you have the courage to endure the discomfort of letting people down now with gratitude for the past and excitement for a possible future, or will you hang on through a long, slow decline into resentment and apathy?
