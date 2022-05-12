@@ -8,7 +8,7 @@ It’s easy to shut down a project or business, or to end a relationship when ev
 
 It’s more difficult when some people are benefitting, but you aren't.
 
-Maybe it’s taking up too much time or emotional labor. Maybe you’ve learned everything you can and you find yourself just going through the motions. Or maybe you’re feeling pulled in a new direction and the only way to let something new come in to your work and life is to let go of the old.
+Maybe it’s taking up too much time or emotional labor. Maybe you’ve learned everything you can and now you're just going through the motions. Or maybe something new is knocking at your door and the only way to let something new come in to your work and life is to let go of the old.
 
 When you know that your letting go is going to let people down, it can feel like you’re stealing, or even causing harm. This is a very uncomfortable feeling, but a necessary discomfort that we need to feel in order to let go of things that no longer serve us, even when they appear to be still serving other people.
 
