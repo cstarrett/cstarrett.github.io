@@ -1,48 +1,19 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2022.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 12.0px 0.0px; font: 10.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
-    p.p5 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
-    p.p7 {margin: 0.0px 0.0px 12.0px 0.0px; font: 10.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
-    span.s1 {font-kerning: none}
-    span.s2 {text-decoration: underline ; font-kerning: none}
-    span.s3 {font: 12.0px Times; text-decoration: underline ; font-kerning: none}
-    span.s4 {font: 10.0px Times; text-decoration: underline ; font-kerning: none}
-    span.s5 {-webkit-text-stroke: 0px #000000}
-    span.s6 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-    span.s7 {font: 10.0px Times; text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-    ul.ul1 {list-style-type: disc}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{% seo %} {% include head-custom.html %}</span></p>
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s2"><a href="file:///Users/cds/Documents/GitHub/cstarrett.github.io/_layouts/%7B%7B"><b>{{ site.title | default: site.github.repository_name }}</b></a></span></h1>
-<p class="p1"><span class="s1">{% if site.logo %} <span class="Apple-converted-space"> </span>{% endif %}</span></p>
-<p class="p3"><span class="s1">{{ site.description | default: site.github.project_tagline }}</span></p>
-<p class="p1"><span class="s1">{% if site.github.is_project_page %}</span></p>
-<p class="p4"><span class="s3"><a href="file:///Users/cds/Documents/GitHub/cstarrett.github.io/_layouts/%7B%7B%20site.github.repository_url%20%7D%7D">View the Project on GitHub <span class="s4">{{ site.github.repository_nwo }}</span></a></span></p>
-<p class="p1"><span class="s1">{% endif %} {% if site.github.is_user_page %}</span></p>
-<p class="p5"><span class="s2"><a href="file:///Users/cds/Documents/GitHub/cstarrett.github.io/_layouts/%7B%7B%20site.github.owner_url%20%7D%7D">View My GitHub Profile<span class="s3"></span></a></span></p>
-<p class="p1"><span class="s1">{% endif %} {% if site.show_downloads %}</span></p>
-<ul class="ul1">
-  <li class="li6"><span class="s5"><a href="file:///Users/cds/Documents/GitHub/cstarrett.github.io/_layouts/%7B%7B%20site.github.zip_url%20%7D%7D"><span class="s2">Download <b>ZIP File</b></span></a></span></li>
-  <li class="li6"><span class="s5"><a href="file:///Users/cds/Documents/GitHub/cstarrett.github.io/_layouts/%7B%7B%20site.github.tar_url%20%7D%7D"><span class="s2">Download <b>TAR Ball</b></span></a></span></li>
-  <li class="li6"><span class="s5"><a href="file:///Users/cds/Documents/GitHub/cstarrett.github.io/_layouts/%7B%7B%20site.github.repository_url%20%7D%7D"><span class="s2">View On <b>GitHub</b></span></a></span></li>
-</ul>
-<p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{{ content }}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% if site.github.is_project_page %}</span></p>
-<p class="p3"><span class="s1">This project is maintained by <a href="file:///Users/cds/Documents/GitHub/cstarrett.github.io/_layouts/%7B%7B%20site.github.owner_url%20%7D%7D"><span class="s6">{{ site.github.owner_name }}</span></a></span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p7"><span class="s1">Hosted on GitHub Pages — Theme by <a href="https://github.com/orderedlist"><span class="s7">orderedlist</span></a></span></p>
-</body>
-</html>
+{% seo %} {% include head-custom.html %}
+{{ site.title | default: site.github.repository_name }}
+{% if site.logo %}  {% endif %}
+{{ site.description | default: site.github.project_tagline }}
+{% if site.github.is_project_page %}
+View the Project on GitHub {{ site.github.repository_nwo }}
+View my LinkedIn Profile {{ https://www.linkedin.com/in/cstarrett/ }}
+{% endif %} {% if site.github.is_user_page %}
+View My GitHub Profile
+{% endif %} {% if site.show_downloads %}
+	•	Download ZIP File
+	•	Download TAR Ball
+	•	View On GitHub
+{% endif %} 
+{{ content }} 
+{% if site.github.is_project_page %}
+This project is maintained by {{ site.github.owner_name }}
+{% endif %}
+Hosted on GitHub Pages — Theme by orderedlist
