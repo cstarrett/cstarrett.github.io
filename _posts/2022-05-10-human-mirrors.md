@@ -4,7 +4,7 @@ title:  "Human mirrors"
 tags: awareness self
 ---
 
-The person who is most difficult for us to see objectively is ourselves.
+The person who is the hardest for us to see objectively is ourselves.
 
 We know too much of our own history, and we will tend to underestimate or overestimate ourselves more than anyone else. That's why we need each other.
 
@@ -14,4 +14,4 @@ And the more mirrors the better. Each person brings a lens, a perspective, a way
 
 So the more we can gather together and reflect back to each other, the more clearly we will be able see the truth about ourselves.
 
-And from that clearer awareness comes clearer action.
+And from that clearer awareness comes better decisions and action.
