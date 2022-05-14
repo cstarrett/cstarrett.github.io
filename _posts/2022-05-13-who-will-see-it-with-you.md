@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who will see you out?"
+title:  "Who will see it with you?"
 tags: clarity stuck awareness
 ---
 
@@ -16,4 +16,4 @@ The trick is to ask that they *not* give advice, or try to fix the problem. Thei
 
 Once I get a broader, higher-resolution picture of the situation, I'll often know what to do.
 
-If I know what's possible, then I know what the best choice is for me to take. But that's a big *if*. What I often lack is the awareness of all the choices that are available to me. That's where I need help — to see, feel, and sense the whole. Together.
+If I know what's possible, then I know what the best choice is for me to take. *But that's a big if.* What I often lack is the awareness of all the choices that are available to me. That's where I need help — to see, feel, and sense the whole. Together.
