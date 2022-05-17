@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "We can't 'have' leadership"
+title:  "Leadership is not a thing"
 tags: leadership skills capacity
 ---
 
-If we want to learn to ride a bike, it takes more than reading books, watching videos, or going to workshops. We need the courage to get on a bike to ride, fall, and ride again.
+If we want to learn to ride a bike, it takes more than reading books, watching videos, or going to workshops. It's a skill. And to learn, we need the courage to get on a bike to ride, fall, and ride again.
 
 It takes practice, commitment, and just as importantly, a bike and enough space to ride in.
 
