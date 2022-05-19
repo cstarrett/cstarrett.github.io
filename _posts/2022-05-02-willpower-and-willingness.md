@@ -16,4 +16,4 @@ When we're aware of our true wants and needs, our decisions and actions will nat
 
 That's a big reason for why we procrastinate: we're not being honest with ourselves about what we truly want.
 
-It's not the strength of our will, or willpower, that we need. It's the openness of our will — our willingness to see, feel, and act on what we truly want — that carrys us through.
+It's not the strength of our will, or willpower, that we need. It's the openness of our will — our willingness to see, feel, and act on what we truly want — that carries us through.
