@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Don't explain. Apologize"
+title:  "Don't explain. Apologize."
 tags: empathy connection relationship
 ---
 
