@@ -4,7 +4,7 @@ title:  "The wrong thing or the wrong people"
 tags: connection service
 ---
 
-If you discover that you are caring more than the people you serve, then either you’re caring about the wrong thing or serving the wrong people.
+If you discover that you are caring more than the people who you serve, then either you’re caring about the wrong thing or serving the wrong people.
 
 You're caring about the wrong thing, because what you are caring about is not what the people you serve are caring about.
 
