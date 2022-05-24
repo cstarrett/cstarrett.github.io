@@ -4,7 +4,7 @@ title:  "We don't need to be helped. We need to be heard."
 tags: service empathy
 ---
 
-In Maslow's hierarchy of needs, after the Physiological needs and Safety needs comes the need for Love and Belonging. Being felt, seen, and heard go a long way towards supporting a sense of Love and Belonging (as well as supporting Esteem and Self-actualization which are needs four and five.)
+In Maslow's hierarchy of needs, after the Physiological needs and Safety needs comes the need for Love and Belonging. Being felt, seen, and heard go a long way towards supporting a sense of Love and Belonging (as well as supporting Esteem and Self-actualization which are needs four and five).
 
 The irony is that when people try to "help" us, they often skip the step of hearing us. They may see us struggling and charge in as a Knight in Shining Armor without understanding what we need. Without taking the time to ask questions and listen.
 
