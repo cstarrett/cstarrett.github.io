@@ -8,7 +8,7 @@ In Maslow's hierarchy of needs, after the Physiological needs and Safety needs c
 
 The irony is that when people try to "help" us, they often skip the step of hearing us. They may see us struggling and charge in as a Knight in Shining Armor without understanding what we need. Without taking the time to ask questions and listen.
 
-Often, we are all capable of helping ourselves. We just need to be felt, seen, and heard to activate the will within us to act.
+Often, we are all capable of helping ourselves. We just need someone to hold a space where we can feel felt, seen, and heard and activate the will within us to act.
 
 To paraphrase Dr. Rachel Remen:	
 
