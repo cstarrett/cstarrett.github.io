@@ -12,7 +12,7 @@ Even if you meant well but your best intention ended up hurting the other person
 
 Even if there's a really good reason why you did what you did, don't explain. Apologize.
 
-When we hurt another person, it's not about us. It's not about our motivation or reasoning.
+When we hurt another person, it's not about us. It's not about our motivation or our reasoning.
 
 It doesn't mean we're a bad person, either. It's really not about us at all. It's about the person who we hurt. And if the relationship matters to us, the correct response is to apologize for that hurt no matter what.
 
