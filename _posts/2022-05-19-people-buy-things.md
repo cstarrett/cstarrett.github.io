@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "People buy things"
+title:  "Things are bought by people"
 tags: empathy listening
 ---
 
