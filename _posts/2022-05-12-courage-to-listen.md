@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The courage to listen"
+title:  "It takes courage to listen"
 tags: listening change
 ---
 
