@@ -10,4 +10,4 @@ But action requires awareness, and the shared action required to respond to huma
 
 Only by looking each other in the eye and feeling each others' pain together, will we have a chance of working together to make a difference.
 
-And staying with the pain of human tragedy takes courage, capacity, and the commitment to create a world the supports the well-being of all.
+And staying with the pain of human tragedy takes courage, capacity, and the commitment to create a world that supports the well-being of all.
