@@ -10,4 +10,4 @@ Conversely, for much of my life I didn’t see the point of vacations because wh
 
 This is why learning to work with the breath for focus, for cultivating awareness, and for coming home to ourselves is so useful. It’s free, it’s ours, and it’s with us all the time.
 
-The breath also encourages gentleness for those of us who may not want to come home to ourselves and face what is inside of us. The gentle rhythm of our breathing reminds us that we can take on the challenge of getting to know ourselves one breath of the time, wherever we happen to be.
+The breath also encourages gentleness for those of us who may not want to come home to ourselves and face what is inside of us. The gentle rhythm of our breathing reminds us that we can take on the challenge of getting to know ourselves one breath at a time, wherever we happen to be.
