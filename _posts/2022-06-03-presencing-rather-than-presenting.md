@@ -10,6 +10,6 @@ As speakers, we can start with choosing words that are easy to understand. Regul
 
 Most of all, knowing who your audience is and what is important to them will help you know what to say and how to say it.
 
-This is all more about *presencing* — being present *with* your audience —  than it is about *presenting* — talking *at* your audience.
+It's *presencing* — being present *with* your audience —  rather than *presenting* — talking *at* your audience.
 
 At the end of the day, we want to be heard. So why not help our listeners to hear us?
