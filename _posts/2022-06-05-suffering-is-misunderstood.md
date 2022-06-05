@@ -4,11 +4,9 @@ title:  "Suffering is misunderstood"
 tags: 
 ---
 
-Suffering is misunderstood
-
 Having grown up in the United States I'm used to the ritual greeting:
 
-"How are you?"
+"How are you?"  
 "Fine."
 
 There's an expectation here that unless you have a close relationship with the other person, and time to get into the details, then you should just say you're "fine" regardless of how you're actually feeling, so that you can get on with (or over with) the interaction.
