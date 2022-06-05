@@ -23,7 +23,7 @@ It's not to say that "life is hard, so we may as well not bother," but rather, "
 
 It's not to say that "life is hard, and if people suffer it's just meant to be that way," but rather, "life is hard for everyone, and we need to work together to make things better for everyone, including ourselves."
 
-The first step to shift from "Fine" to *honest* is building up our capacity to feel that life is hard, without giving up, without becoming bitter. To develop the capability to feel that life is hard, and exhilarating. That life is suffering, and joy. That life is painful, and beautiful. At the same time.
+The first step to shift from "Fine" to *honest* is building up our capacity to feel that life is hard, without giving up or becoming bitter. To develop the capability to feel that life is difficult, and exhilarating. That life is suffering, and joy. That life is painful, and beautiful. At the same time.
 
 That these experiences of living fully are not mutually exclusive, but rather mutually dependent.
 
