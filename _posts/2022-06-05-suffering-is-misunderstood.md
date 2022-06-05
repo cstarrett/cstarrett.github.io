@@ -11,7 +11,7 @@ Having grown up in the United States I'm used to the ritual greeting:
 
 Unless you have a close relationship with the other person, and time to get into the details, then you're expected to answer, "Fine," regardless of how you're actually feeling, so that you can get on with (or over with) the interaction.
 
-I think this underlies a deeper philosophy about life here, that the default of life is "fine," rather than that life is hard. That being an aware, feeling human being is hard. Feeling thirsty, getting wet in the rain, missing a deadline, our child crying, getting cut off in traffic, twisting our ankle running for the train, getting caught in an argument, burning ourselves on the stove, bruises, mistakes, disappointments…
+I think this underlies a deeper philosophy about life here, that the default of life is "fine," rather than that life is hard — being an aware, feeling human being is hard. Feeling thirsty, getting wet in the rain, missing a deadline, our child crying, getting cut off in traffic, twisting our ankle running for the train, getting caught in an argument, burning ourselves on the stove, bruises, mistakes, disappointments…
 
 Navigating all the challenges of daily life along with societal pressures and the larger global realities is in fact really, really difficult, and how many of us are really "fine" unless we're learned to numb ourselves to all that?
 
