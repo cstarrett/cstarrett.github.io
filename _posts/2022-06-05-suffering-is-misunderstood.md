@@ -9,9 +9,9 @@ Having grown up in the United States I'm used to the ritual greeting:
 "How are you?"  
 "Fine."
 
-There's an expectation here that unless you have a close relationship with the other person, and time to get into the details, then you should just say you're "fine" regardless of how you're actually feeling, so that you can get on with (or over with) the interaction.
+Unless you have a close relationship with the other person, and time to get into the details, then you're expected to answer, "Fine," regardless of how you're actually feeling, so that you can get on with (or over with) the interaction.
 
-And I think this underlies a deeper philosophy about life, that the default of life is "fine," rather than that life is hard. That being an aware, feeling human being is hard. That navigating all the challenges of daily life along with the societal pressures and larger global realities is in fact really, really difficult and how many of us are really "fine" unless we're learned to numb ourselves.
+I think this underlies a deeper philosophy about life here, that the default of life is "fine," rather than that life is hard. That being an aware, feeling human being is hard. That navigating all the challenges of daily life along with the societal pressures and larger global realities is in fact really, really difficult and how many of us are really "fine" unless we're learned to numb ourselves.
 
 And to say that life is hard isn't to be negative, but to be honest. And kind.
 
