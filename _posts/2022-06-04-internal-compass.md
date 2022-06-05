@@ -16,11 +16,11 @@ Similarly, there are two parts to finding the work and life which is ours. One i
 
 There are a lot of opportunities through volunteer work, social events, as well as books, blogs, podcasts, and videos, to experience directly, or through others, all manner of work and ways of living.
 
-The more difficult part is knowing what is ours.
+The more difficult part is knowing: "What is mine to do?"
 
-After spending a lifetime (so far) being and working as someone who is not quite *ourselves,* it can be hard to discern what really resonates with our core, and what doesn't. In order to survive in a world that expects us to be who *they* want us to be, rather than *who we are,* many of us shut off that part of us that yearns for a life and work which is ours. We had to ignore that calling so that we could keep doing what we were expected to do. And now we've forgotten what that call sounds like.
+After spending a lifetime (so far) being and working as someone who is not quite *ourselves,* it can be hard to discern what really resonates with our core, and what doesn't. In order to survive in a world that expects us, and rewards us, to be who *they* want us to be, rather than *who we are,* many of us shut off that part of us that yearns for a life and work which is ours. We had to ignore that calling so that we could keep doing what we were expected to do. And now we've forgotten what that call sounds like.
 
-The ability to *re-cognize,* or know again, that which is ours is still within us, but we're out of practice, and maybe we also feel a bit uncertain whether it's safe to start using it again. Just like bedridden people whose legs have atrophied need physical therapy to build the strength, coordination, and confidence to walk again, we need to gently practice *re-membering* that part of us which once knew what was ours.
+The ability to *re-cognize,* or know again, that which is ours is still within us, but we're out of practice, and maybe we also feel a bit uncertain whether it's safe to start using it again. Just as after being bedridden with illness, we need to rebuild the strength, coordination, and confidence to walk again, *re-membering* that part of us which once knew what was ours requires gentle practice.
 
 Noticing what draws our attention and then pausing to ask ourselves, is that attraction coming from me, or is it something someone told me I should like? When I notice a particular feeling, or impulse, asking myself where that is coming from? Is it a habit I learned in order to comply, or is it coming from somewhere deeper in me?
 
