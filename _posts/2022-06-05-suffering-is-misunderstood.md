@@ -13,7 +13,7 @@ Unless you have a close relationship with the other person, and time to get into
 
 I think this underlies a deeper philosophy about life here, that the default of life is "fine," rather than that life is hard — being an aware, feeling human being is hard. Feeling thirsty, getting wet in the rain, missing a deadline, our child crying, getting cut off in traffic, twisting our ankle running for the train, getting caught in an argument, burning ourselves on the stove, bruises, mistakes, disappointments…
 
-Navigating all the challenges of daily life along with societal pressures and the larger global realities is in fact really, really difficult, and how many of us are really "fine" unless we're learned to numb ourselves to all that?
+Navigating all the challenges of daily life along with societal pressures and the larger global realities is in fact really, really difficult, and how many of us are really "fine" unless we're just numbing ourselves to all that?
 
 And to say that life is hard isn't to be negative, but to be honest. And kind.
 
@@ -31,4 +31,4 @@ Can we know exhilaration without difficulty, joy without suffering, or beauty wi
 
 The more we feel, the more we feel. Of everything. It's a package deal.
 
-And from that feeling comes motivation, and from motivation, action to make life better.
+And from that feeling comes motivation, and from motivation, action to make life better. For everyone, including ourselves.
