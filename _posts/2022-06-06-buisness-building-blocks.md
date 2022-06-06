@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The building blocks of business"
+title:  "Business network"
 tags: 
 ---
 
@@ -12,6 +12,6 @@ The people who imagine and design the product. The people who make the product. 
 
 The people who care for each other, for the customer, and for the planet enough to commit themselves to make things better by making better things.
 
-So, if people are the basic building block of a business, how strong are those blocks in your business? How strong are the connections between them? What is the condition of the relationships that make up the human network which keeps information and action flowing freely inside and outside your business?
+So, if a business is made up of people, how strong are the connections between them? What is the condition of the relationships that make up the human network which keeps information and action flowing freely inside and outside your business?
 
-Make sure enough of your attention and care is focused on the people of your business. Because without the people, nothing else matters. 
+And how much of your time, attention, and energy is focused on the people of your business? What would happen without them?
