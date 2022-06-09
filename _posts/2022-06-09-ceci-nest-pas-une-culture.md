@@ -6,7 +6,7 @@ tags:
 
 René Magritte's famous work, "The Treachery of Images" is a painting of a pipe with the caption *"Ceci n’est pas une pipe"* or "This is not a pipe." The point is that it's a *painting* of a pipe, not an actual, physical pipe.
 
-Culture is much the same way. We can describe it or influence it by listing values, guiding principles, and even policies or procedures, but at the end of the day, *culture is what culture does.* 
+Culture is much the same way. We can describe it or influence it by writing out sets of values, guiding principles, and even policies or procedures, but at the end of the day, *culture is what culture does.* 
 
 It's what people say and do that creates the culture. The habits, patterns, and unwritten norms of interaction. It's how people behave under pressure, and when (they think) nobody is watching.
 
