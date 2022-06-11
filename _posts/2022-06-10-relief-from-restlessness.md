@@ -5,7 +5,7 @@ tags:
 ---
 
 
-Nobody likes restlessness, that dissatisfaction with where we are in our work, or in life.
+Nobody likes restlessness — that dissatisfaction with where we are in our work, or in life.
 
 It's natural to want to get rid of that feeling. Whether through distraction, or projects, or study, or travel, or something else, we try to find a way to get away from our dissatisfaction through *doing.* This the origin of the classic "mid-life crisis" trope, which can happen in any stage of life, before or after the supposed "middle."
 
@@ -17,7 +17,7 @@ Relief from restlessness comes in rest.
 
 The source of restlessness is usually that our *outside* — what our work and life look like — and who we are *inside* are out-of-whack. And these usually go out-of-whack because we've lost touch with who we are. We've drifted from what is important to us. We've forgotten our *own* likes, dislikes, values, and goals under pressure from the world around us to be someone other than who we are. 
 
-If we spend enough years listening to other people's suggestions and advice, not matter how well intentioned, it becomes easy to forget what matters to *us.* And so we lose track of our internal compass that keeps us on the path — aligning our outside reality with our inside reality.
+If we spend enough years listening to other people's suggestions and advice, no matter how well intentioned, it becomes easy to forget what matters to *us.* And so we lose track of our internal compass that keeps us on the path — aligning our outside reality with our inside reality.
 
 A great first step to rediscovering that compass is to rest. Really rest. Don't read books, or go to workshops, or spend nights and weekends filling out self-discovery worksheets.
 
