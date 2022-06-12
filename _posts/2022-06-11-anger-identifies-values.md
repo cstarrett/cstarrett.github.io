@@ -4,7 +4,7 @@ title:  "Using anger to identify values"
 tags: 
 ---
 
-Most values exercises involve a long list of words and invite us to read through and pick those that represent are our top values.
+Most values exercises involve a long list of words and invite us to read through and pick those that represent our top values.
 
 The challenge is that so many of them sound good! There can be so many we recognize expressing or acting on in the past, that it can be difficult to choose which ones are most important. It can be even more confusing if we're having difficulty sensing the difference between what we truly value, what we've been taught to value, and what we feel we *should* value.
 
