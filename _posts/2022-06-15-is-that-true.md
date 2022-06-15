@@ -4,7 +4,7 @@ title:  "Is that true?"
 tags: 
 ---
 
-The whole challenge of a "blind spot" or "unconscious bias" is that we're not aware of it. It's a belief we assume is true without thinking of questioning it.
+One thing that makes "blind spots" and "unconscious bias" so difficult is that we're not aware of them. It's a belief we assume is true without thinking of questioning it.
 
 When we're aware that we don't know something, then we know what to do: educate ourselves and learn.
 
