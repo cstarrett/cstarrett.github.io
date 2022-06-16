@@ -4,7 +4,7 @@ title:  "How is it working for you?"
 tags: 
 ---
 
-It's often said that insanity is doing the same thing over and over again, but expecting a different result. Luckily, humans are a very adaptable species.
+It's often said that insanity is doing the same thing over and over again, but expecting a different result. Thankfully, humans are a very adaptable species.
 
 Take opening a jar, for example. If we try to twist the top off, and it doesn't come off, we try other ways. Maybe we use something that gives us a better grip. Maybe we run the top under hot water to get it to expand a bit. Or we might just ask for help from someone who is stronger than we are.
 
