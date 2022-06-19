@@ -6,7 +6,7 @@ tags:
 
 If you asked my middle school science teacher how long a meter was, he'd hold out his hands a meter apart and say "about this long."
 
-His point was that he didn't believe in learning the metric system of measurement by comparing it to the British Imperial system that we used in the United States. He wanted us to learn it as an independent system. We should feel the weight of a kilogram, measure with rulers in centimeters, and weigh a cubic centimeter of water and see that it was one gram.
+His point was that he didn't believe in learning the metric system of measurement by comparing it to the imperial system that we used in the United States. He wanted us to learn it as an independent system. We should feel the weight of a kilogram, measure with rulers in centimeters, and weigh a cubic centimeter of water and see that it was one gram.
 
 He wanted us to get a fresh sense of the world directly measured in the metric system, rather than converting everything from our past experience, which will inevitably result in an approximation.
 
