@@ -8,7 +8,7 @@ If you asked my middle school science teacher how long a meter was, he'd hold ou
 
 His point was that he didn't believe in learning the metric system of measurement by comparing it to the imperial system that we used in the United States. He wanted us to learn it as an independent system. We should feel the weight of a kilogram, measure with rulers in centimeters, and weigh a cubic centimeter of water and see that it was one gram.
 
-He wanted us to get a fresh sense of the world directly measured in the metric system, rather than converting everything from our past experience, which will inevitably result in an approximation.
+He wanted us to get a fresh sense of the world directly measured in the metric system, rather than converting everything from our past experience, which would result in an approximation.
 
 It's natural for us to compare and contrast new experiences and acquaintances with those we've had in the past. This person's voice reminds us of someone from a previous job, or this restaurant is noisier than that other one we were at. When we compare and contrast it helps us to share our sense of the world with each other.
 
