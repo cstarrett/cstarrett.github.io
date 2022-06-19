@@ -10,7 +10,7 @@ His point was that he didn't believe in learning the metric system of measuremen
 
 He wanted us to get a fresh sense of the world directly measured in the metric system, rather than converting everything from our past experience, which would result in an approximation.
 
-It's natural for us to compare and contrast new experiences and acquaintances with those we've had in the past. This person's voice reminds us of someone from a previous job, or this restaurant is noisier than that other one we were at. When we compare and contrast it helps us to share our sense of the world with each other.
+It's natural for us to compare and contrast new experiences and acquaintances with those we've had in the past. This person's voice reminds us of someone from a previous job, or this restaurant is noisier than that other one. When we compare and contrast it helps us to make sense of our experience of the world — for it to feel coherent and whole.
 
 The downside is that it also reduces our present moment experience by putting more attention on things we can relate to past experience.
 
