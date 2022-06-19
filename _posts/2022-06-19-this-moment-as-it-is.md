@@ -14,9 +14,9 @@ It's natural for us to compare and contrast new experiences and acquaintances wi
 
 The downside is that it also colors how we experience the present moment by putting more attention on the things that relate to our past experience.
 
-What happens when you try describing a situation or the person in its own terms along with how you feel about it, without comparing or contrasting. What aspects seem most important? What do you notice about them?
+As an experiment, try noticing what happens when you describe a situation or person without comparing or contrasting, just as-is. What aspects seem most important?
 
-For instance, notice how it feels to say, "This food feels comforting," without giving a reason. Without saying what else it tastes like, or what it reminds you of. Just enjoying and sharing the fact that it feels comforting to eat.
+For instance, notice how it feels to say, "This food feels comforting," without giving a reason. To describe how it tastes without saying what else it tastes like, or what it reminds you of.
 
 It can be the same when enjoying a sunset with someone, or a concert, the satisfaction of finishing a project. How might it feel to simply fully experience this moment as it is, without comparing it to any other time, person, place, or thing?
 
