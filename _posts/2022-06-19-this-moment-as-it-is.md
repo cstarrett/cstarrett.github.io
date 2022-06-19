@@ -12,7 +12,7 @@ He wanted us to get a fresh sense of the world directly measured in the metric s
 
 It's natural for us to compare and contrast new experiences and acquaintances with those we've had in the past. This person's voice reminds us of someone from a previous job, or this restaurant is noisier than that other one. When we compare and contrast it helps us to make sense of our experience of the world — for it to feel coherent and whole.
 
-The downside is that it also reduces our present moment experience by putting more attention on things we can relate to past experience.
+The downside is that it also colors how we experience the present moment by putting more attention on the things that relate to our past experience.
 
 What happens when you try describing a situation or the person in its own terms along with how you feel about it, without comparing or contrasting. What aspects seem most important? What do you notice about them?
 
