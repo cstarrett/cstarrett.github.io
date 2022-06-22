@@ -14,7 +14,7 @@ Didn't we create this ecological crisis with the current winner-takes-all, race-
 
 We need more than ingenious technology to save ourselves from our own destruction. We need a new approach to the businesses that distribute the technology.
 
-One where the intention of business is to be a creative force for good, just like the technology. Innovative business that are environmentally, socially, and financially sustainable. Businesses that support the well-being of all, not only through their products and services, but also through the impact of business operation on all stakeholders — including customers, employees, partners, communities, society, and the planet.
+One where the intention of business is to be a creative force for good, just like the technology. Innovative business that are environmentally, socially, and financially sustainable. Businesses that support the well-being of all, not only through their products and services, but also through their impact on all stakeholders — including customers, employees, partners, communities, society, and the planet.
 
 Where do you see your role in wholly sustainable business? Are you ready to lead the way to a wholly sustainable future?
 
