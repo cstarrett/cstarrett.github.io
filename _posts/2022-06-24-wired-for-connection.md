@@ -4,7 +4,7 @@ title:  "Wired for connection"
 tags: 
 ---
 
-We are wired for empathy. Our brains have what are sometimes called "mirror neurons" which light up when we see someone who is feeling joy, pain, anger, or sadness. The way they work, as I understand it, is that they use our own personal experience of joy, pain, anger, or sadness to "mirror" what someone else is feeling. It allows us to experience someone else's emotions *as if they were our own.*
+We're wired for empathy. Our brains have what are sometimes called "mirror neurons" which light up when we see someone who is feeling joy, pain, anger, or sadness. The way they work, as I understand it, is that they use our own personal experience of joy, pain, anger, or sadness to "mirror" what someone else is feeling. It allows us to experience someone else's emotions *as if they were our own.*
 
 What this also means, though, is that we need to have felt something ourselves, in order to feel it in someone else. In other words, if we push away our own feelings of loneliness, shame, fear, or anger, it makes it harder for us to feel it in others. It weakens our empathy.
 
