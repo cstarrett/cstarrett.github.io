@@ -4,7 +4,7 @@ title:  "We live in the material world"
 tags: 
 ---
 
-Assuming you are a human being, you live in a body. That body has needs.
+Assuming you're a human being, you live in a body. That body has needs.
 
 Many of these needs support our physical existence, such as: food, water, and shelter. Others contribute to our sense of social belonging. And still other needs are in the realm of self-actualization — or becoming who we are capable of becoming.
 
