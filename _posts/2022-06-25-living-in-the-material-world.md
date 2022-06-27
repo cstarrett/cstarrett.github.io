@@ -14,6 +14,6 @@ Self-actualization also requires us to act with outcomes that are visible. Perha
 
 Even mental health, much of which can be invisible, has objectively measurable impacts on the physical health of our bodies and our ability to meet our body's needs.
 
-From grappling on individual decisions to debating who we want to be as a society, we must never forget that we live in a material world. Everything we think and feel has the potential for very real outcomes on our human bodies, our social body, and the Earth body. 
+From grappling with individual decisions to debating want kind of society we want to live in, we must never forget that we live in a material world. Everything we think and feel has the potential for very real outcomes on our human bodies, our social body, and the Earth body. 
 
 So the question is: what outcomes will best support the well-being of all? And what do we need to do to secure those outcomes?
