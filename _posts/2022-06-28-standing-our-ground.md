@@ -20,4 +20,4 @@ And when it gets out of hand, ego-centric conflict can explode into wars of enti
 
 Standing our ground is an important part of creating the tension that activates the creative force. But we have to be clear about *why* we're standing our ground. Is it for insight and innovation to serve the well-being of all, or is it because we want to "win" or don't want to be seen as weak.
 
-Because part of allowing conflict the do its work, is knowing when to let go of our old worldview, and step forward to embrace the new.
+Because part of allowing conflict to do its work, is knowing when to let go of our old worldview, and step forward to embrace the new.
