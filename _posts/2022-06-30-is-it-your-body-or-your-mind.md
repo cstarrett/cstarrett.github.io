@@ -10,6 +10,6 @@ If the only thing stopping you from interrupting your current task and taking ca
 
 On the flip side: if you notice yourself going for a drink, or a snack, or daydreaming about a nap, is that what your body is asking for, or are you doing it as a reaction to something in your mind such as boredom, stress, or anxiety?
 
-There's no right or wrong here. The invitation is to become more aware of when we act on signals from the body, and when we don't. When we ignore our body's needs, or when we use our bodies (like with stress eating) to deal with something that would be more effectively dealt with another way (such as through journaling, conversations, and trying new behaviors).
+This isn't about shame or blame. The invitation is to simply become more aware of when we act on signals from the body, and when we don't. When we ignore our body's needs, or when we use our bodies (like with stress eating) to deal with something that would be more effectively dealt with another way (such as through journaling, conversations, and trying new behaviors).
 
-Whatever you may be doing, or not doing, check in with your body regularly. What do you sense? And how could you respond to your body's messages in a way that might support your own well-being?
+Whatever you may be doing, or not doing, check in with your body regularly. What do you sense? Whose voice is it? Your body or your mind?
