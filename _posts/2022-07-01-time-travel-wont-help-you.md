@@ -16,6 +16,6 @@ And how can we know that what we *think* we care about, *is* what we care about?
 
 This "inner knowing" is not knowledge, but a skill. It's not something we can capture in a weekend workshop, but rather a capability and a capacity that we can build over time by learning to listen to our own self. Noticing what we like and dislike, and being honest with ourselves about it. Investigating what we think we know about ourselves with the question, "Is that true?" Picking up on clues like how energized or tired we feel after an activity or conversation.
 
-Our growing up has mostly taught us to listen to our parent, teacher, and boss, rather than to listen to ourselves — to our own body and mind. So it can take time to relearn how to listen to what truly matters to us in this moment.
+Growing up, most of us were taught to listen to our parent, teacher, and boss, rather than to listen to ourselves — to our own body and mind. So it can take time to relearn how to listen to what truly matters to us in this moment.
 
 But it's a *re*learning, because we were born with this skill. And each step we make towards understanding who we are, brings a little more joy into our lives.
