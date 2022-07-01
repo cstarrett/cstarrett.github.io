@@ -8,6 +8,8 @@ A favorite exercise of coaches and career counselors is to ask the client to thi
 
 The problem is that from the moment we're born, we're impacted by our environment. The people around us, their values and personalities, the kind of attention we receive or are denied, and the resources and opportunities that are available to us or not are just a few of the hugely influential variables that affect each of us.
 
+Besides, everything we've learned and experienced since then has shaped us even further. We're not even the same person as we were yesterday, let alone as a child.
+
 There is some value in reflecting on how circumstances and the adults around us may have pushed us in one direction or another, but what really matters in this moment is who we are *now.* What is important to us now? What really matters now? What will motivate us to commit and persevere through difficulty now?
 
 And how can we know that what we *think* we care about, *is* what we care about? In other words, how do we know that it's coming from *inside us,* rather than from *outside* expectations of society or even our friends?
