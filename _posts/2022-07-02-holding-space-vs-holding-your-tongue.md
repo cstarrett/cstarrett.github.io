@@ -12,7 +12,7 @@ Later, I began learning how to listen in a way that contributes to dialogue. Sup
 
 This is one way to understand "holding space."
 
-If I hold my tongue, I'm simply not talking. In my mind I could be drafting an email. If I'm holding space, then my full attention is on the dialogue, as well as the thoughts and feelings the dialogue may be bringing up in me. The only focus of my attention is on what I am noticing right here and right now. I'm not thinking about the past or the future. I'm not even thinking about what I could say. I am simply paying attention to what is being said, and not said, in this moment.
+If I hold my tongue, I'm simply not talking. In my mind I could be drafting an email, fantasizing about dinner, or planning my weekend. If I'm holding space, then my full attention is on the dialogue, as well as the thoughts and feelings the dialogue may be bringing up in me. The only focus of my attention is on what I am noticing right here and right now. I'm not thinking about the past or the future. I'm not even thinking about what I could say. I am simply paying attention to what is being said, and not said, in this moment.
 
 I want to add two more points:
 
