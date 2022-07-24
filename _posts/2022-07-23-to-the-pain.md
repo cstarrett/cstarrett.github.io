@@ -12,7 +12,7 @@ There are many pains we encounter that might teach us something if we would allo
 
 It's not pleasant to keep feeling the pain, but if we could, and if we looked at our thoughts that are causing that pain, what might we learn? Why do we fear bringing bad news to our manager? Are we afraid of getting punished for it, or the position we'll put them in, or maybe that they'll think we're trying to sabotage them. Looking at those fears, how might we deliver the news differently? What other data might we want to collect, or who else might we want to talk to, or could we recruit others to deliver the news together?
 
-In tackling the assignment that feels out of our league, am I underestimating myself, or might I do something to supplement what I see as a gap in my skills? And for slogging through the inbox, what does the pain tell me about that? What is my intention in going through it, and is there a way I can do it which aligns with what matters most to me so that it feels less like a duty and more purposeful?
+In tackling the assignment that feels too difficult, am I underestimating myself, or might I do something to fill a gap in my skills? And for slogging through the inbox, what does the pain tell me about that? What is my intention in going through it, and is there a way I can do it which aligns with what matters most to me so that it feels less like a duty and more purposeful?
 
 To ask these questions we need to stay with our pain long enough to feel the real root of the pain. What is it that is bothering us at the core, and how can we respond to that in a way that brings relief and more life to our work?
 
