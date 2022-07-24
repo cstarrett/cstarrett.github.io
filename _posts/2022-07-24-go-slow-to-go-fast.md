@@ -4,7 +4,7 @@ title:  "Go slow to go fast"
 tags: 
 ---
 
-My life and work partner, [Jung](linkedin.com/in/jungstarrett/) has been advising people for over a decade to "go slow to go fast," but what does that mean?
+My life and work partner, [Jung](https://www.linkedin.com/in/jungstarrett/), has been advising people for over a decade to "go slow to go fast," but what does that mean?
 
 This is more than just "measure twice and cut once" — or avoiding mistakes by not rushing. Going slow means taking time to ask questions.
 
