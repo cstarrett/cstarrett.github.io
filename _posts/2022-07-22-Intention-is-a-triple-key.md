@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intention as a triple key"
+title:  "Intention is a triple key"
 tags: 
 ---
 
