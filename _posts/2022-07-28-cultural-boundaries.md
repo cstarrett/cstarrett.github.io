@@ -15,4 +15,3 @@ Clear, explicit, and firm cultural boundaries also help focus discussions about 
 And the boundaries have to apply to everyone. Nothing kills a culture more than having one set of expectations for the employees, and another for the boss. CEO also stands for Chief Example Officer.
 
 How clear are the boundaries in your team? Are the expectations clear and consistent? If not, what small, first step could you take for a stronger, healthier culture?
-What matters most is being aware of what we are thinking, feeling, seeing, and sensing in this moment. All we know is what we know right now. And we never step into the same river twice.
