@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Listening as a power skill for sales"
+title:  "The #1 sales skill is listening"
 tags: 
 ---
 
