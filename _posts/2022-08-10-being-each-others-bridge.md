@@ -4,7 +4,7 @@ title:  "Being each others' bridge"
 tags: 
 ---
 
-No one is an island, as the saying goes, but sometimes we feel alone. This can be for many reasons. Experiencing rejection in a relationship or a job. Frustration with repeated personal failure or not being able to reach a goal. Maybe it's simply the accumulation of anxiety and social isolation that is making us feel alone.
+No one is an island, as the saying goes, but sometimes we *feel* alone. This can be for many reasons. Experiencing rejection in a relationship or a job. Frustration with repeated personal failure or not being able to reach a goal. Maybe it's simply the accumulation of anxiety and social isolation that is making us feel alone.
 
 There can be many reasons, but once we close up, shut down, and settle into our loneliness, it's extremely difficult to reconnect to other people. In those moments, we need somebody to step into our loneliness from the outside, and be a bridge. To reawaken the feeling of connectedness in us and remind us that we are part of a larger whole of humanity.
 
