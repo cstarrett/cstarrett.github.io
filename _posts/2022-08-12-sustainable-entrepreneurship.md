@@ -8,7 +8,7 @@ tags:
 
 Who might you think would say things like this. An abusive parent? A toxic sales manager?
 
-What if I told you it was a "pitch coach."
+What if I told you it was a "pitch coach" for green technology entrepreneurs?
 
 After sitting through a two-hour jam-packed webinar where the coach literally had to struggle to catch their breath multiple times, my only takeaway is that there has got to be a better way to support entrepreneurs who are trying to create a more sustainable planet.
 
@@ -20,7 +20,7 @@ And by the end it was clear that this was a tactic to overwhelm all of us so we 
 
 There has got to be another way.
 
-If we are going to innovate clean technology to turn around the damage we're doing to our planet, we're not going to succeed by doing it from the same take-make-waste mindset that got us here.
+If we are going to innovate green technology to turn around the damage we're doing to our planet, we're not going to succeed by doing it from the same take-make-waste mindset that got us here.
 
 How is it sustainable to extract time, talent, and energy from people in order to maximize profit — even if that profit is going to support green technology?
 
