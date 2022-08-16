@@ -4,7 +4,7 @@ title:  "Keeping current with myself"
 tags: 
 ---
 
-For decades I valued being able to "define myself." In my 20s and early 30s I was on a path that let me answer the two questions of "Who am I" and "What is my work" with the same answer: "I'm an ethnomusicologist."
+I used to value being able to "define myself." In my 20s and early 30s I was on a path that let me answer the two questions of "Who am I" and "What is my work" with the same answer: "I'm an ethnomusicologist."
 
 When I finally accepted that this label was not an honest answer to either question, I was left with the uncomfortable realization that I didn't know who I was or what my work was. In the years that followed,  I struggled to craft a "personal brand." I read books and blog posts, wrote out lists of values, drafted mission statements, and crafted "elevator pitches" that could encapsulate my essence in 30 seconds.
 
