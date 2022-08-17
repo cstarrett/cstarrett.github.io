@@ -4,9 +4,7 @@ title:  "A tale of two emails"
 tags: 
 ---
 
-A tale of two emails
-
-Two potential business partners who we've had conversations with. Two emails. Two very different impacts.
+A tale of two emails: Two potential business partners who we've had conversations with. Two emails. Two very different impacts.
 
 Yesterday one potential partner sent us an email that we knew he wrote from the heart. We could feel his enthusiasm, sincerity, and presence in the words. It wasn't perfect or polished, but it didn't matter. We felt seen and cared about, and were grateful to experience his human-to-human professionalism through the text.
 
