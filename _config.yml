@@ -3,3 +3,5 @@ title: Charles Starrett
 description: Blog, links, and…
 logo: https://pbs.twimg.com/profile_images/1084938736750788608/gzzKs00S_400x400.jpg
 show-downloads: false
+plugins:
+  - jekyll-feed
