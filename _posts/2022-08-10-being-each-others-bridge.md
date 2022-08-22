@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Being each others' bridge"
+title:  "Being each other's bridge"
 tags: 
 ---
 
