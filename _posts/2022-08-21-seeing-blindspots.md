@@ -4,7 +4,7 @@ title:  "Seeing blindspots"
 tags: 
 ---
 
-As workplaces have become more aware of the challenge of unconscious bias, it's highlighted the question: "How do we see our own blindspots." If we have a particular belief, if we see the world a certain way, how do we see our own belief, bias, or perspective not as fact, but as just one of many possible points of view? How do we see ourselves from the outside, like an observer?
+As workplaces have become more aware of the challenge of unconscious bias, it's highlighted the question: "How do we see our own blindspots?" If we have a particular belief, if we see the world a certain way, how do we see our own belief, bias, or perspective not as fact, but as just one of many possible points of view? How do we see ourselves from the outside, like an observer?
 
 One was to do that, is together. If we are in a group of people who have built up trust and skills of presencing with each other, we can see ourselves reflected in each others' eyes. We can starts to see ourselves as others see us, and we can start to see the world we live in as others see it.
 
