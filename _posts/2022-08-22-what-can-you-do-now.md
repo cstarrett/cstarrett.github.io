@@ -1,15 +1,25 @@
 ---
 layout: post
-title:  "Seeing blindspots"
+title:  "What can you do now?"
 tags: 
 ---
 
-As workplaces have become more aware of the challenge of unconscious bias, it's highlighted the question: "How do we see our own blindspots?" If we have a particular belief, if we see the world a certain way, how do we see our own belief, bias, or perspective not as fact, but as just one of many possible points of view? How do we see ourselves from the outside, like an observer?
+It's natural to worry about the future, or regret the past. Some might even say it's evolutionary. But what if evolution is getting in the way of your success and happiness?
 
-One was to do that, is together. If we are in a group of people who have built up trust and skills of presencing with each other, we can see ourselves reflected in each others' eyes. We can starts to see ourselves as others see us, and we can start to see the world we live in as others see it.
+Worrying about the future helps us to make choices and take actions which will support our ongoing survival. It helps us to go beyond short-term thinking. To make plans and consider consequences.
 
-Not only does this help us see our unconscious bias, but also our blindspots around our own weaknesses and strengths. How well do we really know what we're capable of, and how often do we hold ourselves back because of what we *think* we're *not* capable of?
+Regret helps us to recognize that we aren't happy with some of the choices we made in the past. It gives us the opportunity to learn from our mistakes and perhaps make choices which we will be more happy with in the future.
 
-What could change in your life if you spent just an hour a week in a group like this, helping each other to see not only yourselves, but the world around you more clearly?
+The tools of worry and regret have certainly helped us to survive and grow as a species. But as my children are fond of saying, when it comes to evolution, "Cs get degrees." Evolution doesn't always choose the *best* option, just a *good enough* option for the continued survival of the species.
 
-With all the money being thrown at collecting data, what might deep data like this be worth?
+But what if we want to do more than just "survive." In fact, what if our individual fight to survive is creating longer-term risk for our own well-being, as well as the well-being of our societies, and the planet?
+
+Because the fact is, we only exist now, in this moment. We don't know the future yet, and we barely understand the past, if at all. We can't go back in time to change anything, and we can't jump into the future. All we have is what we know now, and what we can do now.
+
+So the wisest thing we can do for our well-being, is to learn how to stop and be as present as we can. To be aware of all the information that is available to us now, in this present moment, and to be aware of what we can do now, in this present moment, that we believe will move us in the direction of our highest intention. And then to do it.
+
+After taking that action, we stop again, notice what has changed, course-correct if necessary, and take another step.
+
+This is how we walk into the future we want to create. Step-by-step, staying as present as we can be with each step.
+
+The next time you notice being caught in worry or regret, try stopping for a moment to be present with your experience right now. Notice what you see, feel, and sense right now. And then ask yourself, "What can I do now, to go further towards my highest intention?"
