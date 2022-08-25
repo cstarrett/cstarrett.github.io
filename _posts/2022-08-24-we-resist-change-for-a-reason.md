@@ -12,7 +12,7 @@ We're not prepared to cope with the feelings of loss, regret, sadness, or pain t
 
 We're not prepared to work with the feelings of fear and doubt that will pester us if we try to leave our familiar situation and step into the unknown.
 
-We're not prepared let go of the predictability of the patterns we have lived with and respond with curiosity, compassion, and courage to the daily surprises that come with taking on something new.
+We're not prepared to let go of the predictability of the patterns we have lived with and respond with curiosity, compassion, and courage to the daily surprises that come with taking on something new.
 
 These emotional challenges require skills to navigate with confidence, and most of us are out of practice. And somewhere deep down inside us we know that, and so we wisely stay put, rather than take the risk of embarking on a journey that we're not prepared for.
 
