@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "The #1 sales skill is listening"
+title:  "The #1 sales skill? Listening."
 tags: 
 ---
 
-Over the past few weeks we've participated in a lot of business-to-business sales calls as a client, and it's been quite an education. Noticing how different potential vendors show up, how they describe their services and their process, and most of all, noticing how we respond in each conversation.
+This summer we participated in a lot of business-to-business sales calls as a prospective client, and it was quite an education. Noticing how different vendors show up, how they describe their services and their process, and most of all, noticing how we respond in each conversation.
 
-What we've noticed is that those who came to these initial discovery calls to present, talk, and convince are the ones we've already crossed off our list of candidates. Those who took the time to listen, ask good questions, understand, and then respond from that place of understanding us are the ones we're still talking to.
+What we noticed is that those who spent all their time in those initial discovery calls presenting, talking, and persuading are the ones we crossed off our list of candidates first. Those who took the time to listen, ask open questions, understand, and then respond from that place of deep understanding are the ones we had follow-up conversations with.
 
-Listening is a core power skill that would have helped all of the sales people who failed. The one who tried to make it look like they knew what my former profession was, and got it wrong, came across as fake and lost my trust. However, if he had asked me what my former profession was, he would have shown a genuine interest to connect.
+Listening is a core power skill that would have helped all of the salespeople who failed. The salesperson who tried to guess at my former profession got it wrong, came across as fake, and lost my trust. However, if they had asked me about my former profession, they would have shown a genuine interest to connect.
 
-The one who kept proposing we move the project in a different direction after we explicitly said that wasn't what this project was about, showed that he would be too difficult to work with. If he had noticed our pushing back, he could've stopped and asked more questions, showing us what collaborating with him would feel like.
+Then there was a team who kept proposing we move the project in a different direction even after we explicitly said that wasn’t what this project was about. If they had been listening, they might have stopped to ask more questions. That would’ve shown us how they could collaborate. 
 
-And don't get me started about the guy who lacked so much self-awareness that he wasn't even listening to himself as he made the same point over and over, eating up our time and annoying us in the process.
+And don’t get me started about the guy who lacked so much self-awareness that he wasn’t even listening to himself as he made the same point over and over, eating up our time and annoying us in the process.
 
-Making a quality sale isn't about being clever, or authoritative, or even "adding value." A sale is built on a foundation of a genuine connection. And you can't make a genuine connection to another human being if you're not willing, or able, to listen.
+Closing a quality sale doesn’t come from being clever, or authoritative, or even “adding value.” A sale is built on a foundation of a genuine connection. And you can’t make a genuine connection unless you’re willing, and able, to listen.
