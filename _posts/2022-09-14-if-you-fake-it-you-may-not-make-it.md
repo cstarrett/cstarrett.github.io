@@ -4,13 +4,13 @@ title:  "If you fake it, you may not make it"
 tags: 
 ---
 
-I'm here to tell you that if you tried and failed at "fake it until you make it," It's not just you. It didn't work for me, either.
+I'm here to tell you that if you tried and failed at "fake it until you make it," it's not just you. It didn't work for me, either.
 
 If anything, trying to fake it just made things worse. I felt like more of an imposter, I felt less powerful, and in the end, when it didn't work, I felt like even more of a failure. And these feelings seriously got in my way. They made it more difficult to do my best, to learn from my mistakes, to take risks, to be creative, and they undermined my self-esteem.
 
 The thing is, "fake it until you make it" isn't just about trying to fool others, it's also about trying to fool ourselves. It relies on the same psychological trick as self-affirmations, and research suggests that self-affirmations are unreliable. They motivate some people, but de-motivate others.
 
-One reason for this could be because self-affirmations only engage the our conscious mind, but for some of us, all the time that we're "dressing for success" and "learning in," our unconscious is sending us messages like, "What a load of ****," "You know who you *really* are," "You're such a loser," or worse.
+One reason for this could be because self-affirmations only engage the our conscious mind, but for some of us, all the time that we're "dressing for success" and "leaning in," our unconscious is sending us messages like, "What a load of \*\*\*\*," "You know who you *really* are," "You're such a loser," or worse.
 
 There is another way, though. Rather than faking it, or using self-affirmations, we can use self-compassion and self-acceptance—the opposite of pretending.
 
