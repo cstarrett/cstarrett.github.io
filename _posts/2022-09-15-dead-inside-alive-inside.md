@@ -16,8 +16,8 @@ I put on a happy face because I was taught that expressing what I was really fee
 
 But that's not the end of the story.
 
-Because bodies and minds are designed to heal, and because of people who cared, I'm still here today.
+Thanks to our bodies and minds being designed to heal, thanks to the people who cared, and thanks to a lot of practice, I'm still here today.
 
-And because I'm still here today, I can tell you that healing is possible, and feeling (again) is possible.
+And thanks to still being here today, I can tell you that healing is possible, and that feeling (again) is possible.
 
-And I am filled with gratitude that I am now very much alive inside.
+It's been a long journey, but I am filled with gratitude that I am now very much alive inside.
