@@ -4,7 +4,6 @@ title:  "Learning as a distraction"
 tags: 
 ---
 
-Learning as a distraction
 I love to learn. You could call me "jack of all trades, master of none" but I prefer "renaissance man" or Emilie Wapnick's term, "[multi-potentiate](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling)." A glance at my [LinkedIn profile](https://www.linkedin.com/in/cstarrett/) shows a variety of education and roles, and that's only what I've felt are worth putting up there.
 
 One reason my path has meandered is that I was misled by the adults around me when I was growing up. Nobody reflected back to me the person they saw, they only projected onto me the person they wanted me to be. This led to decades of frustrated searching as I thought that the future I was pursuing was where the world wanted me to go, but some part of me knew that I was going the wrong way.
