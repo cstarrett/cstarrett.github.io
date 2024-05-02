@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"TITLE"'
+title: TITLE
 tags:
 ---
 

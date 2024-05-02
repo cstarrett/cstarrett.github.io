@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Arts and Science"'
+title: 'Arts and Science'
 tags:
 ---
 
