@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emotions are energy
+title: 'Emotions are energy'
 tags:
 ---
 
