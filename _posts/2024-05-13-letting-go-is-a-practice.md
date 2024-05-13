@@ -11,10 +11,10 @@ These are just a few things that the mind can get caught on. Get hooked on. Get 
 
 This is why letting go is a practice. When we aspire to let go of what (and who) we can't change, we make a commitment to practice letting go. So that when we notice our mind is snagged, we stop. We take a moment to breathe, calm the body, and smile at what our mind is snagged on. "Hello. I see you. You can stay, but I'm going to move on." We smile, and we release.
 
-Stop
-Smile
-Greet
-Release
+ - Stop
+ - Smile
+ - Greet
+ - Release
 
 Wash, Rinse, Repeat
 
