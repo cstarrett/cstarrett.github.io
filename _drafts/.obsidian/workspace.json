@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/2022-MONTH-DAY-title.md",
+                "file": "2022-MONTH-DAY-title.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4692bf634865e59d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c054bf2c2b4c047b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/2022-MONTH-DAY-title.md",
+                "file": "2022-MONTH-DAY-title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/2022-MONTH-DAY-title.md",
+                "file": "2022-MONTH-DAY-title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/2022-MONTH-DAY-title.md"
+                "file": "2022-MONTH-DAY-title.md"
               }
             }
           }
@@ -162,14 +148,15 @@
   },
   "active": "b4de08e2d0114214",
   "lastOpenFiles": [
-    "2024-05-03-emotions-are-energy.md",
-    "Templates/2022-MONTH-DAY-title.md",
-    "2024-05-01-arts-and-science.md",
+    "2024-05-13-letting-go-is-a-practice.md",
     "2022-MONTH-DAY-title.md",
+    "2022-MONTH-DAY-ego-eco-compassion.md",
+    "Templates/2022-MONTH-DAY-title.md",
+    "2024-05-03-emotions-are-energy.md",
+    "2024-05-01-arts-and-science.md",
     "Templates",
     "_templates/2022-MONTH-DAY-title.md",
     "_templates",
-    "2022-MONTH-DAY-ego-eco-compassion.md",
     "Welcome.md",
     "2022-MONTH-DAY-behavioral-economics.txt",
     "2022-05-??-intention-impact.md",

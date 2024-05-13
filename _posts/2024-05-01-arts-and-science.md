@@ -6,7 +6,7 @@ tags:
 
 It always seems like the first thing to get cut in any school is the arts.
 
-After all, we need to prepare kids for their future, and there's no future in the arts. Kids need to learn practical skills. Things that will help them to get a job. To make a living. To be successful in life.
+After all, we need to preparqe kids for their future, and there's no future in the arts. Kids need to learn practical skills. Things that will help them to get a job. To make a living. To be successful in life.
 
 But what future is in store for our kids? Climate anxiety? Growing income inequality? Never-ending war?
 
