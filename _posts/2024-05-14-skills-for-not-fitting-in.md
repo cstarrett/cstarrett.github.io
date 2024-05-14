@@ -12,6 +12,6 @@ A new paradigm that doesn't exist, and won't exist until those of us who are hol
 
 We need to learn new skills together for working without a manual, without structure, without guarantees, which is really hard, especially for those of us who enjoyed being rewarded in school and at work. No more rules or norms to fall back on. No railings to lean on for security. No paths to follow for success.
 
-We need to learn how to survive and even thrive in the wild: bushwhacking, orienteering without a map, searching for sustenance and safe shelter as we go.
+We need to learn how to find our way in the wild: bushwhacking, orienteering without a map, searching for sustenance and safe shelter as we go.
 
 Someday there may be a new paradigm of working and living with wholeness and a new education system which teaches the skills and knowledge we need to operate within it. But what we need now are the inner skills we didn't learn in school — skills for finding our way out of the current paradigm, and for building something new together where we can all thrive by being exactly who we are.
