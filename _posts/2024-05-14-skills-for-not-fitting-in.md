@@ -14,4 +14,4 @@ We need to learn new skills together for working without a manual, without struc
 
 We need to learn how to survive and even thrive in the wild: bushwhacking, orienteering without a map, searching for sustenance and safe shelter as we go.
 
-Someday there may be a new paradigm of working and living with wholeness and a new education system which teaches the skills and knowledge we need to operate within it. But what we need now are the inner skills we didn't learn in school — skills for finding our way out of the current paradigm, and for building something new together.
+Someday there may be a new paradigm of working and living with wholeness and a new education system which teaches the skills and knowledge we need to operate within it. But what we need now are the inner skills we didn't learn in school — skills for finding our way out of the current paradigm, and for building something new together where we can thrive while being exactly who we are.
