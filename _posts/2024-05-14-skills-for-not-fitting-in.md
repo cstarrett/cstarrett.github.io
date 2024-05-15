@@ -4,7 +4,7 @@ title: Skills for not fitting in
 tags:
 ---
 
-In "Stop Stealing Dreams," Seth Godin wrote about the origin of our current work culture, why it's not working for us anymore, and how our current education system is designed around shaping us to fit in and succeed as standardized human units in the current system.
+In "Stop Stealing Dreams," Seth Godin wrote about the origin of our current work culture, why it's not working for us anymore, and how our education system is designed around shaping us to fit in and succeed as standardized human units in the current system.
 
 But some of us don’t fit in, and don’t want to fit into a standardized system. We see possibilities for working together by contributing from our unique strengths. We see a new paradigm of work that is life-giving and serving people and the planet, rather than soul-sucking and depleting workers and the Earth.
 
